@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/ErenSeven/Testimonials-grid-section.git
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://erenseven.github.io/Testimonials-grid-section/
 
 ## My process
 
